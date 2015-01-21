@@ -19,6 +19,8 @@ git diff
 git diff --staged
 git diff HEAD
 
+git push
+
 git log --patch
 git log
 git log --oneline
@@ -26,7 +28,11 @@ git log -S text_to_be_search
 git log --grep file2
 
 git branch
+git branch --all
 git branch -m rename_master_branch
 git branch branch1_60
 git checkout branch1_60
 git log --oneline --graph --decorate --all
+
+git remote
+git remote -v
