@@ -1,5 +1,5 @@
 # Test-Repo-20-Jan
-This is test repository Jan 2015
+This is test repository Jan - 2015
 
 https://github.com/github/gitpad
 
