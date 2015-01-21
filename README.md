@@ -29,4 +29,4 @@ git branch
 git branch -m rename_master_branch
 git branch branch1_60
 git checkout branch1_60
-git log --oneline --graph --decorate
+git log --oneline --graph --decorate --all
